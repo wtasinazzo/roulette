@@ -1,0 +1,1 @@
+All code is in the .mlapp file. The partita.m file is actually useless. Image files were used to create the roulette and the ball. You can download the application on your computer using the dedicated file. 
